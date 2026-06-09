@@ -70,4 +70,5 @@ npm run dev
 ```
 
 ## 👩‍💻 Author
-Varshitha
+Varshitha L U
+luvarshitha3139@gmail.com
