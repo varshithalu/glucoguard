@@ -1,5 +1,11 @@
 # 🩺 GlucoGuard – Smart Diabetes Healthcare Management System
 
+<p> <h2>🌟 Project Showcase </h2>
+  <a href="https://varshithalu.github.io/glucoguard/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ## 📌 Overview
 
 GlucoGuard is a healthcare management platform designed for diabetes patient monitoring, appointment management, medicine ordering, and doctor-patient interaction.
@@ -74,4 +80,6 @@ npm run dev
 
 📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/varshithalu/)
+💼 [LinkedIn - varshithalu](https://www.linkedin.com/in/varshithalu/)
+
+💻 [Github - varshithalu](https://github.com/varshithalu)
