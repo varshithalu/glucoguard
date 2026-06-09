@@ -25,12 +25,12 @@ The system supports Admin, Doctor, and Patient modules with secure workflows and
 * Secure authentication and role management
 
 ## 🛠️ Tech Stack
-React.js
-Sass
-Next.js
-* ---  Blockchain  ---
-Solidity 
-Metamask
+* React.js
+* Sass
+* Next.js
+* Blockchain 
+* Solidity 
+* Metamask
 
 ## 👥 User Roles
 
